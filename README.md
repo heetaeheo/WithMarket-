@@ -6,3 +6,4 @@
 Compose 도입 과정에서 gradle 이슈 발생
 
 -->  composeOptions {   kotlinCompilerExtensionVersion = "1.2.0-alpha07"} 추가 및 hilt 버전 업그레이드 
+-->  개인 commit 기록이 남지 않아 수정 예정
